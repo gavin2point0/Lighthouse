@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Entry = (props) => {
+const Entry = (props) => (
     <div>
         <form>
         <div className="form-group">
@@ -14,6 +14,6 @@ const Entry = (props) => {
         <button type="submit" className="btn btn-primary">Submit</button>
         </form>
     </div>
-}
+)
 
 export default Entry;
