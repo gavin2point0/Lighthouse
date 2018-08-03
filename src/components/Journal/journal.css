@@ -1,6 +1,4 @@
-body {
-    font-family: 'Josefin Sans', sans-serif;
-}
+
 hr {
     margin: 0;
 }
@@ -20,6 +18,8 @@ textarea {
 }
 #entry-name {
     margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 18px;
 }
 #entry-body {
     margin: 10px 0;
@@ -29,7 +29,8 @@ textarea {
     color: #fff;
     border-radius: 0;
     margin: 12px;
-    padding: 10px 15px;
+    padding: 4px 15px 0;
+    font-size: 18px;
 }
 .btn-primary:hover {
     background-color: #6E44FF;
