@@ -1,8 +1,12 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
 hr {
     margin: 0;
 }
 textarea {
     resize: none;
+
 }
 .form-control {
     border: 0;
