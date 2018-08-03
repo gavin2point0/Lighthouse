@@ -4,6 +4,7 @@ body {
 h1 {
     margin: 0;
 }
+
 .header {
     background-color: #2800B2;
     color: #fff;
@@ -15,7 +16,13 @@ h1 {
     font-family: 'Josefin Sans', sans-serif;
 
 }
-
+.form-group {
+    padding-bottom: 0;
+}
+.form-control {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
 
 .content {
     max-width: 1280px;

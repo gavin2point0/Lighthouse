@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-       <Landing />
+       <Entry />
       </Wrapper>
     );
   }
